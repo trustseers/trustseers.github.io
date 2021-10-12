@@ -1,0 +1,28 @@
+{
+    "representative": {
+        "logo": {
+            "logo_256": "https://trustseers.com/assets/img/logo-256.png",
+            "logo_1024": "https://trustseers.com/assets/img/logo-1024.png",
+            "logo_svg": "https://trustseers.com/assets/img/logo-1024.png"
+        },
+        "media": {
+            "steemit": "",
+            "twitter": "https://twitter.com/trustseers",
+            "youtube": "",
+            "facebook": "",
+            "github": "https://github.com/trustseers",
+            "reddit": "",
+            "keybase": "",
+            "telegram": "",
+            "wechat": ""
+        }
+    },
+    "server": {
+        "location": {
+            "country": "1",
+            "city": "New_York"
+        },
+        "server_type": "cloud",
+        "api_endpoint": "http://54.234.139.57:9000"
+    }
+}
